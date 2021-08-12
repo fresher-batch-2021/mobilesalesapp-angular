@@ -1,0 +1,38 @@
+.icon{
+    width: 40px;
+    height: 40px;
+    float: left;
+  }
+  .mb{
+    margin: 8px;
+    font-size: 30px;
+    color:black;
+    float: left;
+    font-family: 'Krona One', sans-serif;
+    font-family: 'Spartan', sans-serif;
+    font-family: 'Tenor Sans', sans-serif;
+  }
+  .mb:hover{
+    transform: unset;
+    color: grey;
+  }
+  
+  .product{
+    color: black;
+    text-decoration: none;
+  }
+  .account{
+    width: 25px;
+    height: 25px;
+    float: right;
+    margin-right: 100px;
+    margin-top: 15px;
+  }
+  .cart{
+    width: 25px;
+    height: 25px;
+    float: right;
+    margin-right: -80px;
+    margin-top: 15px;
+  }
+  
